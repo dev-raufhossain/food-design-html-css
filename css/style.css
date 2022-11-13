@@ -1,0 +1,402 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav{
+  width: 100%;
+  height: 70px;
+  background-color: #575b5f ;
+  margin: auto;
+}
+.logo{
+  width: 25%;
+  float: left;
+  padding: 12px 20px;
+  margin-left: 20px;
+
+
+}
+.nav-menu{
+  width: 50%;
+  float: left;
+}
+.nav-menu ul{
+  float: left;
+  margin-left: 120px;
+}
+.nav-menu ul li{
+  display: inline-block;
+  padding: 5px 18px;
+}
+.nav-menu ul li a{
+  color: #f6f6f7;
+  font-size: 14px;
+}
+.socual{
+  width: 15%;
+  float: right;
+  margin-top: 20px;
+
+
+
+}
+.socual a{
+  padding: 0 15px;
+}
+
+
+.top-hed{
+height: 120vh;
+width: 95%;
+ background-image: url("\\img/egg.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+margin: auto;
+z-index: 3;
+}
+.top-section h1{
+  font-family: 'Lobster Two', cursive;
+  text-align: center;
+  margin-top: 100px;
+ font-size: 80px;
+ line-height: 100px;
+ color: #fff;
+
+}
+.top-section h2{
+  font-family: 'Lobster Two', cursive;
+  text-align: center;
+  margin-top: -50px;
+ font-size: 60px;
+ color: #fff;
+ line-height: 1em;
+
+
+}
+.top-section h5{
+  text-align: center;
+  margin-top: -40px;
+ font-size: 30px;
+ color: #fff;
+}
+
+.top-section a{
+margin-left: 46%;
+  margin-top: -30px;
+ font-size: 15px;
+ color: #fff;
+ padding: 10px 20px;
+ background-color: black;
+}
+
+.medile-section .box1{
+  height: 350px;
+  width: 350px;
+ background-image: url("\\img/cake.jpg");
+ background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+margin: auto;
+z-index: 0;
+margin-top: -80px;
+float: left;
+margin-left: 20%;
+}
+
+.medile-section .box2{
+  height: 300px;
+  width: 330px;
+ background-color: #f6f6f7;
+margin: auto;
+z-index: 0;
+margin-top: -80px;
+float: left;
+padding: 20px 40px 30px 30px;
+}
+
+.medile-section .box2 h1{
+  font-family: 'Lobster Two', cursive;
+
+}
+.medile-section .box2 a{
+
+ font-size: 15px;
+ color: #fff;
+ padding: 10px 20px;
+ background-color: black;
+}
+.ros{
+height: 100px;
+padding-bottom: 190px;
+}
+.rose{
+  height: 250px;
+  width: 95%;
+  background-image: url("\\img/panel.jpg");
+margin-top: 200px !important;
+margin: auto;
+z-index: 1;
+}
+.rose h1{
+  text-align: center;
+  clear: both;
+padding: 50px 0 0 0;
+color: #fff;
+
+}
+.ros .rose h2{
+  font-family: 'Lobster Two', cursive;
+  text-align: center;
+  color: #fff;
+  clear: both;
+}
+
+
+
+.glary{
+
+width: 70%;
+margin: auto;
+display: grid;
+grid-template-columns: 240px 240px 240px 240px;
+}
+.glary-h h1{
+  text-align: center;
+  font-family: 'Lobster Two', cursive;
+  color: #28374b;
+
+}
+
+
+
+
+
+
+.box3{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 80px;
+  background-image: url("\\img/salmon.jpg");
+}
+.box4{
+  font-family: 'Lobster Two', cursive;
+
+  text-align: center;
+  background-color: #9fb0a5;
+}
+.box5{
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding: 80px;
+    background-image: url("\\img/bowl.jpg");
+  }
+
+.box6{
+  font-family: 'Lobster Two', cursive;
+
+  text-align: center;
+  background-color: #9fb0a5;
+
+}
+.box7{
+  font-family: 'Lobster Two', cursive;
+
+  text-align: center;
+  background-color: #9fb0a5;
+}
+.box8{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 80px;
+  background-image: url("\\img/pan.jpg");
+
+}
+.box9{
+  font-family: 'Lobster Two', cursive;
+
+  text-align: center;
+  background-color: #9fb0a5;
+}
+.box10{
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding: 80px;
+    background-image: url("\\img/popon.jpg");
+
+}
+.box11{
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding: 80px;
+    background-image: url("\\img/cake2.jpg");
+
+}
+.box12{
+  font-family: 'Lobster Two', cursive;
+
+  text-align: center;
+  background-color: #9fb0a5;
+
+}
+.box13{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 80px;
+  background-image: url("\\img/meat.jpg");
+
+}
+
+.box14{
+  font-family: 'Lobster Two', cursive;
+
+  text-align: center;
+  background-color: #9fb0a5;
+
+}
+.secsion-video{
+  text-align: center;
+}
+.secsion-video ul li a i{
+  font-size: 40px;
+}
+.secsion-video h1{
+  font-size: 40px;
+  font-family: 'Lobster Two', cursive;
+
+}
+.secsion-video video{
+ width: 95%;
+ height: 400px;
+}
+.subscrib{
+  text-align: center;
+}
+.subscrib h1{
+  font-family: 'Lobster Two', cursive;
+
+}
+.email{
+  padding: 10px 30px;
+display: inline-block;
+margin-right: -40px;
+
+}
+.submit{
+  padding: 12px 27px;
+background-color: #151d25;
+color: #FFF;
+border: none;
+z-index: 2;
+display: inline;
+}
+.last-img{
+  margin-top: 40px;
+justify-content: center;
+margin-left: 20%;
+
+}
+.last-img .photo1{
+  float: left;
+  height: 200px;
+  width: 280px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("\\img/pasta.jpg");
+  margin: auto;
+}
+.last-img .photo2{
+  height: 200px;
+  width: 280px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("\\img/pizza2.jpg");
+  margin: auto;
+
+  float: left;
+
+}
+.last-img .photo3{
+  height: 200px;
+  width: 280px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("\\img/coffi.jpg");
+  float: left;
+  margin: auto;
+}
+
+.footer{
+  margin: auto;
+  margin-top: 240px;
+  width: 95%;
+  height: 200px;
+  background-color: #27364a;
+  text-align: center;
+  display: flex;
+  color: #FFF;
+}
+.stdiv{
+  display: flex;
+}
+.location1{
+  margin: auto;
+  float: left;
+margin-left: 150px;
+}
+.location2{
+  margin: 88px auto;
+  float: left;
+margin-left: 50px;
+}
+.nddiv{
+  display: flex;
+
+}
+.hours1{
+  margin: auto;
+  float: left;
+margin-left: 150px;
+}
+.hours2{
+  margin: 100px auto;
+  float: left;
+margin-left: 50px;
+}
+.copyright{
+  margin: auto;
+  width: 95%;
+  height: 60px;
+  background-color: #151d25;
+  text-align: center;
+  display: flex;
+  color: #FFF;
+}
+.copy{
+  margin: auto;
+}
+.socua{
+  width: 15%;
+  float: right;
+  margin-top: 20px;
+  margin: auto;
+}
+.socua a{
+  padding: 0 15px;
+}
